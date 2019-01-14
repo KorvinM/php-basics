@@ -4,7 +4,7 @@ include ('includes/header.php');?>
 
 <header class="main-header">
   <div class = "main-heading-wrap">
-  <h1 class = "main-heading"><a href="/">PHP Basics</a></h1>
+  <h1 class = "main-heading"><a href="#">PHP Basics</a></h1>
   </div>
 </header>
 <main class = "slides">

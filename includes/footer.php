@@ -7,8 +7,8 @@ ob_start(); ?>
 
 
 <div style="">A project by <a href="http://korvin.org">Korvin M Media</a></div>
-<div style=""><a href="http://korvin.org">View source code on Github</a></div>
-<div style=""><a href="http://korvin.org">Original codecourse tut</a></div>
+<div style=""><a href="https://github.com/KorvinM/php-basics">View source code on Github</a></div>
+<div style=""><a href="https://www.youtube.com/playlist?list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW" target="_blank"">Original codecourse tut</a></div>
 </footer>
 
 <script src="js/vendor/modernizr-3.6.0.min.js"></script>
